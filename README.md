@@ -1,3 +1,1 @@
-
-이 프로젝트는 가벼운 CI & CD 를 이용하기 위한 Node.js 미니멈 프로젝트입니다.
-
+CI/CD TEST node.js
